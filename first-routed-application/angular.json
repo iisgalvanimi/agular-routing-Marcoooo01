@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "first-routed-application"
+    }
+  },
+  "defaultProject": "first-routed-application",
+  "cli": {
+    "analytics": false
+  }
 }
